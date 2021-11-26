@@ -1,0 +1,17 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: 0% 20%;
+  float: left;
+  margin-right: 20px;
+}
+
+p.username {
+  font-weight: bold;
+  font-size: 200%;
+}
+p.tweet {
+  font-size: 200%;
+}
