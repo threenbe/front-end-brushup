@@ -4,5 +4,3 @@
  I used Visual Studio Code with the Live Server extension. 
  
  Each folder here is just a different folder I was working out of when trying things out.
- 
- Shout out to https://codewithmosh.com/
